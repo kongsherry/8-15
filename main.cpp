@@ -3,7 +3,7 @@
 #include <QApplication>
 #include<QResource>
 #include"config.h"
-
+//3425
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
